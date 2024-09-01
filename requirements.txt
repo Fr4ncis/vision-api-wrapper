@@ -1,0 +1,7 @@
+flask
+transformers
+torch
+qwen-vl-utils
+torchvision 
+'accelerate>=0.26.0'
+# Add any other dependencies required by qwen_vl_utils
